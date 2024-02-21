@@ -1,0 +1,116 @@
+PMID- 32370835
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200910
+LR  - 20200910
+IS  - 1942-5546 (Electronic)
+IS  - 0025-6196 (Linking)
+VI  - 95
+IP  - 5
+DP  - 2020 May
+TI  - Artificial Intelligence in Cardiology: Present and Future.
+PG  - 1015-1039
+LID - S0025-6196(20)30138-5 [pii]
+LID - 10.1016/j.mayocp.2020.01.038 [doi]
+AB  - Artificial intelligence (AI) is a nontechnical, popular term that refers to 
+      machine learning of various types but most often to deep neural networks. 
+      Cardiology is at the forefront of AI in medicine. For this review, we searched 
+      PubMed and MEDLINE databases with no date restriction using search terms related 
+      to AI and cardiology. Articles were selected for inclusion on the basis of 
+      relevance. We highlight the major achievements in recent years in nearly all 
+      areas of cardiology and underscore the mounting evidence suggesting how AI will 
+      take center stage in the field. Artificial intelligence requires a close 
+      collaboration among computer scientists, clinical investigators, clinicians, and 
+      other users in order to identify the most relevant problems to be solved. Best 
+      practices in the generation and implementation of AI include the selection of 
+      ideal data sources, taking into account common challenges during the 
+      interpretation, validation, and generalizability of findings, and addressing 
+      safety and ethical concerns before final implementation. The future of AI in 
+      cardiology and in medicine in general is bright as the collaboration between 
+      investigators and clinicians continues to excel.
+CI  - Copyright © 2020 Mayo Foundation for Medical Education and Research. Published by 
+      Elsevier Inc. All rights reserved.
+FAU - Lopez-Jimenez, Francisco
+AU  - Lopez-Jimenez F
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN. Electronic 
+      address: lopez@mayo.edu.
+FAU - Attia, Zachi
+AU  - Attia Z
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN.
+FAU - Arruda-Olson, Adelaide M
+AU  - Arruda-Olson AM
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN.
+FAU - Carter, Rickey
+AU  - Carter R
+AD  - Department of Health Sciences Research, Mayo Clinic, Jacksonville, FL.
+FAU - Chareonthaitawee, Panithaya
+AU  - Chareonthaitawee P
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN.
+FAU - Jouni, Hayan
+AU  - Jouni H
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN.
+FAU - Kapa, Suraj
+AU  - Kapa S
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN.
+FAU - Lerman, Amir
+AU  - Lerman A
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN.
+FAU - Luong, Christina
+AU  - Luong C
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN.
+FAU - Medina-Inojosa, Jose R
+AU  - Medina-Inojosa JR
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN.
+FAU - Noseworthy, Peter A
+AU  - Noseworthy PA
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN; Robert D. and 
+      Patricia E. Kern Center for the Science of Health Care Delivery, Mayo Clinic, 
+      Rochester, MN.
+FAU - Pellikka, Patricia A
+AU  - Pellikka PA
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN.
+FAU - Redfield, Margaret M
+AU  - Redfield MM
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN.
+FAU - Roger, Veronique L
+AU  - Roger VL
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN; Robert D. and 
+      Patricia E. Kern Center for the Science of Health Care Delivery, Mayo Clinic, 
+      Rochester, MN.
+FAU - Sandhu, Gurpreet S
+AU  - Sandhu GS
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN.
+FAU - Senecal, Conor
+AU  - Senecal C
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN.
+FAU - Friedman, Paul A
+AU  - Friedman PA
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN.
+LA  - eng
+GR  - K01 HL124045/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Mayo Clin Proc
+JT  - Mayo Clinic proceedings
+JID - 0405543
+SB  - IM
+CIN - Mayo Clin Proc. 2020 May;95(5):843-844. PMID: 32370846
+MH  - Artificial Intelligence/*trends
+MH  - Cardiology/*methods
+MH  - Forecasting
+MH  - *Heart Diseases/diagnosis/therapy
+MH  - Humans
+EDAT- 2020/05/07 06:00
+MHDA- 2020/09/12 06:00
+CRDT- 2020/05/07 06:00
+PHST- 2019/09/18 00:00 [received]
+PHST- 2020/01/30 00:00 [revised]
+PHST- 2020/01/31 00:00 [accepted]
+PHST- 2020/05/07 06:00 [entrez]
+PHST- 2020/05/07 06:00 [pubmed]
+PHST- 2020/09/12 06:00 [medline]
+AID - S0025-6196(20)30138-5 [pii]
+AID - 10.1016/j.mayocp.2020.01.038 [doi]
+PST - ppublish
+SO  - Mayo Clin Proc. 2020 May;95(5):1015-1039. doi: 10.1016/j.mayocp.2020.01.038.
